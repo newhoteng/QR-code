@@ -6,20 +6,16 @@
 body {
   background-color: hsl(212, 45%, 89%);
   font-family: 'Outfit', sans-serif;
-  /* border: 2px solid red; */
-  /* height: 100vh; */
+  height: 100vh;
   height: 100svh;
   padding: 0 30px;
-  /* position: relative; */
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .main-div {
-  /* border: 1px solid black; */
-  /* width: 100%; */
-  max-width: 500px;
+  max-width: 280px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 28px;
   margin: 0 auto;
@@ -38,14 +34,12 @@ body {
 .heading {
   color: hsl(218, 44%, 22%);
   font-size: 1.5rem;
-  /* border: 1px solid red; */
   margin: 1rem 0;
 }
 
 .details {
   color: hsl(220, 15%, 55%);
   font-size: 1rem;
-  /* border: 1px solid red; */
 }
 
 .attribution {
@@ -53,7 +47,6 @@ body {
   text-align: center;
   position: fixed;
   bottom: 0;
-  /* border: 1px solid red; */
   padding: 20px;
 }
 
