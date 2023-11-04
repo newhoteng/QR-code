@@ -23,7 +23,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   border-radius: 28px;
   margin: 0 auto;
-  padding: 16px;
+  padding: 1rem 1rem 2.5rem;
 }
 
 .bar-code {
@@ -44,7 +44,8 @@ body {
 
 .details {
   color: hsl(220, 15%, 55%);
-  font-size: 15px;
+  font-size: 1rem;
+  /* border: 1px solid red; */
 }
 
 .attribution {
