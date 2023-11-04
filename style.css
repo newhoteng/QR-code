@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+  border: 2px solid red;
+  height: 100vh;
+  height: 100lvh;
+  /* display: flex; */
+
+}
+
+.main-div {
+  border: 1px solid black;
+  width: 500px;
+  background-color: hsl(0, 0%, 100%);
+  margin: 0 auto;
+}
